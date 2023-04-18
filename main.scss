@@ -1,0 +1,46 @@
+// footer__section__flexible
+.footer__section__wrapper__box__title {
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 48px;
+    width: 415px;
+    display: inline-block;
+}
+.footer__section__flexible {
+    display: flex;
+    justify-content: space-between;
+    width: 1440px;
+    margin: 0 auto;
+    box-sizing: border-box;
+    align-items: center;
+    padding-top: 200px;
+    padding: 0 160px;
+    height: 300px;
+}
+.footer__section__flexible {
+    background-image: url(../../images/three-half-circle-gray-img.svg);
+    background-repeat: no-repeat;
+}
+// footer__section__flexible
+// footer__section
+.footer__section {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    box-sizing: border-box;
+    align-items: center;
+    padding-top: 200px;
+    padding: 0 160px;
+    width: 1440px;
+    height: 96px;
+    background-color: rgba(51, 58, 68, 1);
+}
+.wrapper__box {
+    display: flex;
+    gap: 58px;
+}
+.header__nav__items {
+    display: flex;
+    gap: 32px;
+}
+// footer__section
